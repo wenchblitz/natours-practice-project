@@ -1,2 +1,2 @@
 # NaTours
-NaTours is a practice project for Advanced CSS and SASS.
+NaTours is a practice project. The basic idea behind this project is to practice Advanced CSS and SASS.
