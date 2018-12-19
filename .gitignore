@@ -6,8 +6,13 @@ index.txt
 
 # Ignore dev folder(s)
 node_modules/
+node_modules/*
+
 src/
+src/*
+
 dist/
+dist/*
 
 # Ignore file(s) in a folder
 css/debug.css
